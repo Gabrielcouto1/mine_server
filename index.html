@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Server Control</title>
+    <style>
+        #log-container {
+            width: 100%;
+            height: 400px;
+            overflow-y: scroll;
+            background: black;
+            color: lime;
+            padding: 10px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="startServer()">Start Server</button>
+    <button onclick="restartServer()">Restart Server</button>
+    <p id="status"></p>
+
+    <h3>Live Logs</h3>
+    <div id="log-container"></div>
+
+    <script>
+        function sendCommand(endpoint) {
+            fetch(endpoint, { method: 'POST' })
+                .then(response => response.text())
+                .then(data => document.getElementById("status").innerText = data)
+                .catch(error => document.getElementById("status").innerText = "Error communicating with server.");
+        }
+
+        function startServer() {
+            sendCommand('/start');
+        }
+
+        function restartServer() {
+            sendCommand('/restart');
+        }
+
+        // Real-time Log Streaming
+        const logContainer = document.getElementById("log-container");
+        const eventSource = new EventSource('/logs');
+
+        eventSource.onmessage = function(event) {
+            logContainer.innerHTML += event.data + "<br>";
+            logContainer.scrollTop = logContainer.scrollHeight;  // Auto-scroll to latest log
+        };
+    </script>
+</body>
+</html>
+
