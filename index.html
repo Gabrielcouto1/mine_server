@@ -3,41 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minecraft Server Control</title>
+    <title>PORRA OITO LIGAR!!!!!!!!!!!!!! E DESLIGAR!!!!!!!!</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: white;
+            text-align: center;
+        }
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover { background-color: #45a049; }
+        button.stop { background-color: #e53935; }
+        button.stop:hover { background-color: #d32f2f; }
+        #status {
+            font-weight: bold;
+            margin: 10px;
+        }
         #log-container {
-            width: 100%;
+            width: 80%;
+            max-width: 800px;
             height: 400px;
-            overflow-y: scroll;
+            overflow-y: auto;
             background: black;
             color: lime;
             padding: 10px;
             font-family: monospace;
+            border: 1px solid #4CAF50;
+            margin: 20px auto;
+            text-align: left;
+            white-space: pre-wrap;
         }
     </style>
 </head>
 <body>
-    <button onclick="startServer()">Start Server</button>
-    <button onclick="restartServer()">Restart Server</button>
-    <p id="status"></p>
+    <h1>Minecraft ligar!!!!</h1>
 
-    <h3>Live Logs</h3>
+    <button onclick="sendCommand('/start')">LGIAR!!!</button>
+    <button onclick="sendCommand('/restart')">REINICIAR!!!!!!</button>
+    <button class="stop" onclick="sendCommand('/stop')">PARAR!!!!!!!!</button>
+
+    <p id="status">TA LIGADO?</p>
+
+    <h3>LOGS</h3>
     <div id="log-container"></div>
 
     <script>
         function sendCommand(endpoint) {
             fetch(endpoint, { method: 'POST' })
                 .then(response => response.text())
-                .then(data => document.getElementById("status").innerText = data)
-                .catch(error => document.getElementById("status").innerText = "Error communicating with server.");
-        }
-
-        function startServer() {
-            sendCommand('/start');
-        }
-
-        function restartServer() {
-            sendCommand('/restart');
+                .then(data => {
+                    document.getElementById("status").innerText = data;
+                })
+                .catch(error => {
+                    document.getElementById("status").innerText = "Error connecting to server.";
+                });
         }
 
         // Real-time Log Streaming
