@@ -1,0 +1,17 @@
+filename = 'Steam_Rails-1.6.4+fabric-mc1.19.2.jar'
+name = "Create: Steam 'n' Rails"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.4+fabric-mc1.19.2'
+
+[download]
+hash = '94f52d336b4ab88be07dfd9b6f89cd6afb52cd3bddee12316c536b440579b958c90f74c476e293314ee215c0e226405d719b19b68febff0dcebf01da3ab4889b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZzjhlDgM/versions/2UUvBSK9/Steam_Rails-1.6.4%2Bfabric-mc1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'ZzjhlDgM'
+version = '2UUvBSK9'

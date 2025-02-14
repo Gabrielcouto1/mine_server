@@ -1,0 +1,16 @@
+filename = 'smoothboot-fabric-1.19-1.7.1.jar'
+name = 'Smooth Boot (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.3-rc1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfe62d6ae465baa6b60249f271508bb97e5f07f663c018658dfb940f99e7fce5fa9f5b6c15e555db34b02f8db9d8e6350cb120e10469ff809480173fb8b0da49'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FWumhS4T/versions/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar'
+
+[update.modrinth]
+mod-id = 'FWumhS4T'
+version = 'r8xRVPEI'

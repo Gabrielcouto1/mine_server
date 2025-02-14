@@ -1,0 +1,17 @@
+filename = 'InventorySorter-1.8.10-1.19.jar'
+name = 'Inventory Sorting'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.10-1.19'
+
+[download]
+hash = '6a3889edaf607d13bbf2d5978d824f288f6950eb0b7a9184dcaf426e0e4f19a3bc926272645d2b3127dda6be69c2be6a2e8e49ba0dcfb8f4cd15f444ce64f48e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5ibSyLAz/versions/ZsKcCN1N/InventorySorter-1.8.10-1.19.jar'
+
+[update.modrinth]
+mod-id = '5ibSyLAz'
+version = 'ZsKcCN1N'

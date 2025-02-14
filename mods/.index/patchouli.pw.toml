@@ -1,0 +1,16 @@
+filename = 'Patchouli-1.19.2-77-FABRIC.jar'
+name = 'Patchouli'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '499e5d558964c482aef0cd29affa12749c494b13859bf6471fc8d691b3e97f5ce3b5defc83f4ea9161f0532ec88da6049748136d60b44428a5cc8312d8cee066'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nU0bVIaL/versions/NorgAU8F/Patchouli-1.19.2-77-FABRIC.jar'
+
+[update.modrinth]
+mod-id = 'nU0bVIaL'
+version = 'NorgAU8F'

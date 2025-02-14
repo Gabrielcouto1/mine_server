@@ -1,8 +1,9 @@
-from flask import Flask, Response, send_from_directory
+from flask import Flask, Response, send_from_directory, request
 import subprocess
 import os
 import signal
 import time
+import re
 
 app = Flask(__name__, static_folder="static")
 
@@ -56,25 +57,45 @@ def restart_server():
 @app.route('/logs')
 def stream_logs():
     def generate():
-        # Read the existing logs first
+        # Define a regex pattern to match the desired log messages
+        log_pattern = re.compile(r'\[\d{2}:\d{2}:\d{2}\] \[Server thread/INFO\]: (?:'
+                                 r'\[.*?: Teleported .*?\]|'  # Matches teleport messages
+                                 r'.*? (joined|left) the game|'  # Matches join/leave messages
+                                 r'.*? lost connection: .*?|'  # Matches disconnect messages
+                                 r'\[Not Secure\] .*?)')  # Matches in-game chat messages
+
         with open("server.log", "r") as file:
+            # Read and filter existing logs
             log_data = file.readlines()
             for line in log_data:
-                yield f"data: {line.strip()}\n\n"
+                if log_pattern.search(line):  # Send only relevant logs
+                    yield f"data: {line.strip()}\n\n"
 
             # Seek to the end and stream new logs
             file.seek(0, os.SEEK_END)
             while True:
                 line = file.readline()
-                if line:
+                if log_pattern.search(line):  # Only send matching lines
                     yield f"data: {line.strip()}\n\n"
                 time.sleep(0.5)
 
     return Response(generate(), mimetype="text/event-stream")
 
+@app.route('/say', methods=['POST'])
+def send_message():
+    """Send a message to the Minecraft server as the server."""
+    message = request.json.get("message", "").strip()
 
+    if not message:
+        return "Message cannot be empty!", 400
+
+    command = f'echo "/me {message}" > server_input.txt'
+    subprocess.run(command, shell=True, check=True)
+
+    return f"Sent message: {message}", 200
 
 if __name__ == '__main__':
     print("Serving files from:", app.static_folder)
     app.run(host='0.0.0.0', port=5000, threaded=True)
+
 

@@ -1,0 +1,17 @@
+filename = 'ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar'
+name = 'Forge Config API Port'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.2.11'
+
+[download]
+hash = 'bc6c8c703c47972aa232616bb3cbcd2602a68c00be09bce55608904eedd7088b221516893c4a46fc5fd660bf1f08d46a011426a0a4ad6606a9eefbff2c674f7a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ohNO6lps/versions/3VCgXZ79/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'ohNO6lps'
+version = '3VCgXZ79'

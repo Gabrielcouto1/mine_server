@@ -1,0 +1,17 @@
+filename = 'MouseTweaks-fabric-mc1.19-2.22.jar'
+name = 'Mouse Tweaks'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.19-2.22-fabric'
+
+[download]
+hash = '7d68ecfbfa1caa75dd1d402ff9577480e5dfeadd554282e48510eec8d6ba3b590f297a4d246d44c07ff9a5ae8086136001552b0701a486133c296491acb6982c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.19-2.22-fabric/MouseTweaks-fabric-mc1.19-2.22.jar'
+
+[update.modrinth]
+mod-id = 'aC3cM3Vq'
+version = 'pmMCbsN3'

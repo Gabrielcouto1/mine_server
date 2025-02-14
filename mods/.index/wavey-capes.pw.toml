@@ -1,0 +1,17 @@
+filename = 'waveycapes-fabric-1.5.1-mc1.19.2.jar'
+name = 'Wavey Capes'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.1'
+
+[download]
+hash = 'a960abbf0d17d3e78e361141f1262a1f14d61d248514f898dedf2fd2db35f47d32eb9d2e3d16c9bde478f2abb0288bcb08e8061fa62c92a9c7ac36f87c18e02a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kYuIpRLv/versions/iAYP5JqU/waveycapes-fabric-1.5.1-mc1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'kYuIpRLv'
+version = 'iAYP5JqU'

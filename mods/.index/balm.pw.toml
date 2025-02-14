@@ -1,0 +1,17 @@
+filename = 'balm-fabric-1.19.2-4.6.0.jar'
+name = 'Balm'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.6.0+fabric-1.19.2'
+
+[download]
+hash = 'd9a2f42872c0c870870b2dcb54bb54904e53d4a05f8edc4cc80af73ba976ca0ff301fa25376139778d8a89403feab35541057a6702ef7ece4a77397ec95c269e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/c1GjX2k1/balm-fabric-1.19.2-4.6.0.jar'
+
+[update.modrinth]
+mod-id = 'MBAkmtvl'
+version = 'c1GjX2k1'
