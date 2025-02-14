@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 21:07:45 +0000"
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-13 22:41:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-02-12 00:31:12 +0000"
@@ -614,6 +632,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-04 23:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-02-13 21:37:27 +0000"
     },
     "done": true
   },
@@ -740,6 +764,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 01:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-13 23:58:45 +0000"
     },
     "done": true
   },
@@ -887,6 +917,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-02-09 22:56:28 +0000"
@@ -908,6 +944,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-04 22:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -1103,6 +1145,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-02-04 23:15:58 +0000"
@@ -1160,6 +1208,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-09 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-02-13 23:21:24 +0000"
     },
     "done": true
   },
@@ -1493,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-06 23:17:59 +0000"
@@ -1712,6 +1772,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-02-12 02:33:46 +0000"
@@ -1745,6 +1811,12 @@
   "create:recipes/create.palettes/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-08 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2025-02-13 21:51:45 +0000"
     },
     "done": true
   },
@@ -1823,6 +1895,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-05 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -1922,6 +2000,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-14 00:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-04 23:21:38 +0000"
@@ -1949,6 +2033,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 21:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-02-13 21:29:40 +0000"
     },
     "done": true
   },
@@ -2060,6 +2150,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-02-12 02:07:01 +0000"
@@ -2105,6 +2201,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-11 00:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -2307,6 +2409,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-12 23:49:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rope": {
     "criteria": {
       "has_straw": "2025-02-05 02:43:46 +0000"
@@ -2487,6 +2595,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-13 21:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-06 02:11:43 +0000"
@@ -2565,6 +2679,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/tools/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-02-12 23:42:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-02-08 03:30:35 +0000"
@@ -2622,6 +2742,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-02-06 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-02-12 23:45:23 +0000"
     },
     "done": true
   },
@@ -2698,6 +2824,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-02-13 21:33:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/chipped/carpenter_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-06 23:17:59 +0000"
@@ -2707,6 +2839,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-06 23:17:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-13 21:30:04 +0000"
     },
     "done": true
   },
@@ -2851,6 +2989,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-11 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -3064,6 +3208,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-02-04 22:59:36 +0000"
@@ -3238,6 +3388,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-02-13 21:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2025-02-05 00:12:09 +0000"
@@ -3247,6 +3403,12 @@
   "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-08 03:30:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -3325,6 +3487,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-08 03:32:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -3407,6 +3575,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-06 00:41:58 +0000"
@@ -3476,6 +3650,12 @@
   "create:recipes/create.base/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-12 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-13 21:51:25 +0000"
     },
     "done": true
   },
@@ -3629,6 +3809,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-13 22:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-02-04 23:32:46 +0000"
@@ -3650,6 +3836,12 @@
   "farmersdelight:recipes/misc/paper_from_tree_bark": {
     "criteria": {
       "has_tree_bark": "2025-02-06 00:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-13 23:58:45 +0000"
     },
     "done": true
   },
@@ -3809,6 +4001,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-14 00:00:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-13 23:57:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-12 02:41:43 +0000"
@@ -3821,6 +4025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-13 23:58:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-08 03:32:25 +0000"
@@ -3830,6 +4040,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-05 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -3959,6 +4175,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-02-13 21:37:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-02-04 20:50:42 +0000"
@@ -4010,6 +4232,12 @@
   "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-06 22:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-13 23:58:45 +0000"
     },
     "done": true
   },
@@ -4107,10 +4335,12 @@
     "criteria": {
       "minecraft:pillager": "2025-02-04 22:57:49 +0000",
       "minecraft:skeleton": "2025-02-04 21:02:17 +0000",
+      "minecraft:elder_guardian": "2025-02-13 23:59:04 +0000",
       "minecraft:magma_cube": "2025-02-12 01:42:54 +0000",
       "minecraft:spider": "2025-02-04 21:53:51 +0000",
       "minecraft:creeper": "2025-02-05 01:31:37 +0000",
       "minecraft:cave_spider": "2025-02-05 01:29:57 +0000",
+      "minecraft:enderman": "2025-02-13 21:34:35 +0000",
       "minecraft:zombie": "2025-02-04 20:47:09 +0000",
       "minecraft:drowned": "2025-02-05 00:03:21 +0000",
       "minecraft:zombie_villager": "2025-02-06 00:22:41 +0000"
@@ -4165,6 +4395,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-02-13 21:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-04 20:57:37 +0000"
@@ -4186,6 +4422,12 @@
   "create:recipes/create.base/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-02-04 22:59:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -4471,6 +4713,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-13 22:11:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/beef_patty": {
     "criteria": {
       "beef_patty": "2025-02-04 20:57:26 +0000"
@@ -4705,6 +4953,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-02-12 23:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 01:26:05 +0000"
@@ -4763,6 +5017,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-04 23:31:47 +0000",
       "minecraft:taiga": "2025-02-10 01:38:35 +0000",
+      "minecraft:deep_ocean": "2025-02-13 23:56:24 +0000",
       "minecraft:birch_forest": "2025-02-04 23:20:12 +0000",
       "minecraft:windswept_hills": "2025-02-10 01:45:16 +0000",
       "minecraft:bamboo_jungle": "2025-02-04 23:16:12 +0000",
@@ -4897,6 +5152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-13 21:51:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-02-04 22:59:36 +0000"
@@ -5005,6 +5266,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-12 23:49:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_salmon_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_salmon_slice": "2025-02-04 23:28:44 +0000"
@@ -5041,6 +5308,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-13 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-02-14 00:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-02-04 21:11:16 +0000"
@@ -5068,6 +5347,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-09 22:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -5203,6 +5488,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-11 00:17:24 +0000"
@@ -5311,6 +5602,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-05 01:31:38 +0000"
@@ -5380,6 +5677,7 @@
       "spider_eye": "2025-02-04 21:56:01 +0000",
       "bread": "2025-02-04 21:27:09 +0000",
       "rotten_flesh": "2025-02-04 21:26:08 +0000",
+      "suspicious_stew": "2025-02-13 23:44:32 +0000",
       "melon_slice": "2025-02-05 00:17:27 +0000",
       "cooked_chicken": "2025-02-04 21:25:21 +0000"
     },
@@ -5589,9 +5887,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-02-13 23:58:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
     "criteria": {
       "has_pumpkin_slice": "2025-02-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -5622,6 +5932,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-02-04 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -5685,6 +6001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_bale": {
     "criteria": {
       "has_rice_panicle": "2025-02-05 02:43:01 +0000"
@@ -5706,6 +6028,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_salmon_slice": {
     "criteria": {
       "cooked_salmon_slice": "2025-02-04 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-14 00:11:57 +0000"
     },
     "done": true
   },
@@ -5883,6 +6211,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-02-13 21:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-11 01:10:13 +0000"
@@ -6013,6 +6347,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-02-04 20:51:26 +0000"
@@ -6076,6 +6416,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 21:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -6181,6 +6527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-13 23:58:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-02-09 22:56:40 +0000"
@@ -6217,6 +6569,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-06 03:32:44 +0000"
@@ -6232,6 +6590,12 @@
   "create:recipes/create.palettes/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-08 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:45:09 +0000"
     },
     "done": true
   },
@@ -6304,6 +6668,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-05 01:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-13 07:20:46 +0000"
     },
     "done": true
   },
@@ -6382,6 +6752,12 @@
   "create:recipes/create.palettes/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 22:04:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-02-13 21:35:40 +0000"
     },
     "done": true
   },
@@ -6568,6 +6944,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-05 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-02-13 22:11:18 +0000"
     },
     "done": true
   },
