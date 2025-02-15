@@ -2,3 +2,11 @@ Iniciar o server: nohup java -Xmx24G -Xms24G -jar fabric-server-mc.1.19.2-loader
 
 Iniciar o server do python: nohup python3 server.py > flask_server.log 2>&1 &
 Parar o server do python: pkill -f server.py
+
+
+Criar uma rotina para rodar toda hora o backup.sh:
+
+Criar o arquivo do sistema : crontab -e
+Cola isso dentro dele: 0 * * * * ~/backup.sh
+(Pra sair do VIM : aperta ESC, dps :qw enter)
+
