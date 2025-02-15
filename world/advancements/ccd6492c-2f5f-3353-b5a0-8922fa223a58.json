@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-02-14 05:19:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-11 21:04:09 +0000"
@@ -1514,6 +1520,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 03:17:51 +0000"
     },
     "done": true
   },
@@ -2603,6 +2615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-04 20:53:40 +0000"
@@ -2976,6 +2994,12 @@
   "create:recipes/create.palettes/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-09 18:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:potato_cannon": {
+    "criteria": {
+      "0": "2025-02-14 01:51:37 +0000"
     },
     "done": true
   },
@@ -4246,6 +4270,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-14 02:17:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-11 21:04:09 +0000"
@@ -4309,6 +4339,12 @@
   "create:recipes/create.palettes/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-09 18:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-02-14 04:36:21 +0000"
     },
     "done": true
   },
@@ -4567,6 +4603,7 @@
       "minecraft:wither_skeleton": "2025-02-09 20:19:46 +0000",
       "minecraft:piglin": "2025-02-09 20:16:14 +0000",
       "minecraft:enderman": "2025-02-06 04:53:22 +0000",
+      "minecraft:silverfish": "2025-02-14 02:35:12 +0000",
       "minecraft:zombie": "2025-02-04 21:00:31 +0000"
     },
     "done": false
@@ -4763,6 +4800,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-14 02:34:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-06 03:30:42 +0000"
@@ -4820,6 +4863,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-09 20:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-14 02:36:16 +0000"
     },
     "done": true
   },
@@ -5060,6 +5109,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty": {
     "criteria": {
       "beef_patty": "2025-02-04 20:51:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-02-14 04:36:21 +0000"
     },
     "done": true
   },
@@ -5373,6 +5428,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-04 23:31:46 +0000",
       "minecraft:taiga": "2025-02-10 01:01:26 +0000",
+      "minecraft:deep_ocean": "2025-02-14 02:29:40 +0000",
       "minecraft:sunflower_plains": "2025-02-05 00:00:06 +0000",
       "minecraft:birch_forest": "2025-02-04 22:13:00 +0000",
       "minecraft:windswept_hills": "2025-02-04 23:24:19 +0000",
@@ -5760,6 +5816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-02-14 05:19:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-02-11 22:22:08 +0000"
@@ -5943,6 +6005,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2025-02-06 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-02-14 04:36:21 +0000"
     },
     "done": true
   },
@@ -6544,6 +6612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-02-08 01:49:01 +0000"
@@ -6987,6 +7061,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/spruce_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-02-14 04:37:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-05 01:26:55 +0000"
@@ -7371,6 +7451,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-14 02:36:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-09 18:57:20 +0000"
@@ -7524,6 +7610,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-10 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-14 04:36:21 +0000"
     },
     "done": true
   },
