@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-02-11 23:50:51 +0000"
@@ -716,6 +722,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_light_blue_dye": "2025-02-06 21:54:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_iron_barrel_1_from_limited_copper_barrel_1": {
+    "criteria": {
+      "has_limited_copper_barrel_1": "2025-02-15 20:57:15 +0000"
     },
     "done": true
   },
@@ -971,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-02-06 03:52:03 +0000"
@@ -1157,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs": {
     "criteria": {
       "has_polished_cut_diorite": "2025-02-06 19:00:10 +0000"
@@ -1268,6 +1292,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-02-06 04:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
     },
     "done": true
   },
@@ -1883,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-02-13 04:11:22 +0000"
@@ -2400,6 +2436,12 @@
   "create:recipes/create.palettes/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 21:22:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
     },
     "done": true
   },
@@ -2957,6 +2999,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_copper_barrel_1": {
+    "criteria": {
+      "has_limited_barrel_1": "2025-02-15 20:55:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-02-06 19:07:52 +0000"
@@ -3362,6 +3410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 18:56:50 +0000"
@@ -3467,6 +3521,12 @@
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-02-10 20:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
     },
     "done": true
   },
@@ -4257,6 +4317,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_iron_barrel_1": {
+    "criteria": {
+      "has_limited_barrel_1": "2025-02-15 20:55:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-02-07 00:08:47 +0000"
@@ -4530,6 +4596,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-06 05:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
     },
     "done": true
   },
@@ -5192,6 +5264,7 @@
       "minecraft:pillager": "2025-02-06 04:59:48 +0000",
       "minecraft:skeleton": "2025-02-06 22:11:02 +0000",
       "minecraft:ghast": "2025-02-13 17:14:52 +0000",
+      "minecraft:hoglin": "2025-02-15 20:22:46 +0000",
       "minecraft:magma_cube": "2025-02-11 16:03:33 +0000",
       "minecraft:spider": "2025-02-06 22:49:41 +0000",
       "minecraft:creeper": "2025-02-06 03:59:16 +0000",
@@ -6217,6 +6290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-15 20:49:20 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/jukeboxcart": {
     "criteria": {
       "hasitem": "2025-02-12 16:11:18 +0000"
@@ -6917,6 +6996,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
     },
     "done": true
   },
@@ -8109,6 +8194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-06 04:08:26 +0000"
@@ -8520,6 +8611,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-06 18:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-15 20:49:45 +0000"
     },
     "done": true
   },
