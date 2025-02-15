@@ -4431,6 +4431,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-15 19:03:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-13 07:26:22 +0000"
@@ -5109,6 +5115,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-15 19:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-06 04:39:57 +0000"
@@ -5127,9 +5139,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-15 19:03:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/backpack": {
     "criteria": {
       "has_leather": "2025-02-06 04:16:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-15 19:03:21 +0000"
     },
     "done": true
   },
@@ -5207,6 +5231,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-11 20:58:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-15 19:03:21 +0000"
     },
     "done": true
   },
@@ -6044,6 +6074,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-02-15 19:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-12 20:14:47 +0000",
@@ -6226,6 +6262,12 @@
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-06 17:36:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-15 19:03:21 +0000"
     },
     "done": true
   },
