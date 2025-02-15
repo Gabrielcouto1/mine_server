@@ -341,9 +341,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-02-12 17:52:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
     },
     "done": true
   },
@@ -482,6 +506,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-02-11 16:05:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-02-15 17:29:16 +0000"
     },
     "done": true
   },
@@ -689,6 +719,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/carpenter_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-02-06 18:58:05 +0000"
@@ -875,6 +911,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-02-10 19:41:39 +0000"
@@ -944,6 +986,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-06 19:07:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-15 17:56:42 +0000"
     },
     "done": true
   },
@@ -1019,6 +1067,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-02-06 04:01:37 +0000"
@@ -1076,6 +1130,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-06 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/shepherd_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -1142,6 +1202,12 @@
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2025-02-12 17:12:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-02-15 17:05:35 +0000"
     },
     "done": true
   },
@@ -1289,6 +1355,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-06 18:56:55 +0000"
@@ -1361,9 +1433,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-02-12 17:47:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-02-15 17:09:27 +0000"
     },
     "done": true
   },
@@ -1388,6 +1472,12 @@
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-02-06 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-02-15 17:54:04 +0000"
     },
     "done": true
   },
@@ -1625,6 +1715,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-02-15 17:05:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-06 03:51:46 +0000"
@@ -1811,6 +1907,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/tinkerer_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-11 17:12:54 +0000",
@@ -1845,6 +1947,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-02-06 04:34:15 +0000"
@@ -1854,6 +1962,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-02-06 18:57:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/mason_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -1878,6 +1992,12 @@
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-02-06 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
     },
     "done": true
   },
@@ -2319,6 +2439,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-02-15 17:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-06 03:55:07 +0000"
@@ -2346,6 +2472,12 @@
   "create:recipes/create.palettes/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-13 07:26:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -2400,6 +2532,12 @@
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-02-06 19:07:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
     },
     "done": true
   },
@@ -3362,6 +3500,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-02-15 17:05:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-06 17:36:33 +0000"
@@ -3530,6 +3674,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-06 04:16:48 +0000"
@@ -3611,6 +3761,12 @@
   "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 18:56:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/philosopher_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -3782,6 +3938,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-02-15 17:57:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-06 04:36:21 +0000"
@@ -3857,6 +4019,12 @@
   "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-06 18:57:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
     },
     "done": true
   },
@@ -3974,6 +4142,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-15 17:28:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-15 17:28:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-02-06 18:56:56 +0000"
@@ -3987,6 +4167,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-15 17:28:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 21:22:11 +0000"
@@ -3996,6 +4182,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-02-12 17:47:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-15 17:28:58 +0000"
     },
     "done": true
   },
@@ -4335,6 +4527,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-02-15 17:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-06 17:33:04 +0000"
@@ -4497,6 +4695,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_sign": {
     "criteria": {
       "has_canvas": "2025-02-12 21:10:04 +0000"
@@ -4605,6 +4809,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-06 04:27:24 +0000"
@@ -4659,9 +4869,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 18:56:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -4725,6 +4947,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/chipped/glassblower_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-06 03:44:07 +0000"
@@ -4734,6 +4962,12 @@
   "create:recipes/create.palettes/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-06 04:34:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
     },
     "done": true
   },
@@ -4955,6 +5189,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-02-06 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-02-15 17:22:15 +0000"
     },
     "done": true
   },
@@ -5306,6 +5546,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-02-15 17:54:18 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2025-02-06 05:02:37 +0000"
@@ -5315,6 +5561,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-02-11 19:06:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -5827,6 +6079,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_barrel_from_copper_barrel": {
+    "criteria": {
+      "has_copper_barrel": "2025-02-15 17:48:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-06 17:17:27 +0000"
@@ -5839,6 +6097,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-06 03:45:42 +0000"
@@ -5848,6 +6112,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-02-14 22:48:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -6031,6 +6301,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-02-06 19:09:43 +0000"
@@ -6178,6 +6454,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-06 19:06:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-15 17:28:58 +0000"
     },
     "done": true
   },
@@ -6487,6 +6769,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-10 19:41:39 +0000"
@@ -6572,6 +6860,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-02-06 19:07:52 +0000"
@@ -6623,6 +6923,12 @@
   "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-06 18:57:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_diamond_tier_upgrade": "2025-02-15 17:50:15 +0000"
     },
     "done": true
   },
@@ -6698,6 +7004,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-15 17:28:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-06 04:16:48 +0000"
@@ -6743,6 +7055,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-06 18:56:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-02-15 17:47:54 +0000"
     },
     "done": true
   },
@@ -7425,6 +7743,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/gold_barrel": {
+    "criteria": {
+      "has_iron_barrel": "2025-02-15 17:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-06 04:27:24 +0000"
@@ -7446,6 +7770,12 @@
   "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 21:22:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-15 17:05:04 +0000"
     },
     "done": true
   },
@@ -7641,6 +7971,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-15 17:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-06 18:54:20 +0000"
@@ -7731,6 +8067,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-02-06 05:02:37 +0000"
@@ -7764,6 +8106,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 21:22:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-02-15 17:05:35 +0000"
     },
     "done": true
   },
@@ -7902,6 +8250,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-02-11 23:08:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 17:51:23 +0000"
     },
     "done": true
   },
@@ -8232,6 +8586,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-06 21:34:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-02-15 17:29:16 +0000"
     },
     "done": true
   },
