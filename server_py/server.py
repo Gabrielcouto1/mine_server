@@ -56,6 +56,15 @@ def restart_server():
     subprocess.Popen(MINECRAFT_COMMAND, shell=True)
     return "RESTARTADO!!!!", 200
 
+@app.route('/backup', methods=['POST'])
+def backup_server():
+    """Run the backup script."""
+    try:
+        subprocess.Popen(['./backup.sh'], shell=True)
+        return "Backup started!", 200
+    except Exception as e:
+        return f"Error starting backup: {str(e)}", 500
+
 @app.route('/logs')
 def stream_logs():
     def generate():
@@ -79,33 +88,6 @@ def stream_logs():
                 time.sleep(0.5)
 
     return Response(generate(), mimetype="text/event-stream")
-
-@app.route('/backup', methods=['POST'])
-def backup_world():
-    """Backup the world and push it to GitHub."""
-    try:
-        # Remove old backup
-        subprocess.run("rm -rf github/mine_server/world/", shell=True, check=True)
-
-        # Copy new world files
-        subprocess.run("cp -r world/ github/mine_server/", shell=True, check=True)
-
-        # Change directory to Git repo
-        os.chdir(GIT_DIR)
-
-        # Get the current date and time
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-        # Git commands
-        subprocess.run("git add .", shell=True, check=True)
-        subprocess.run(f'git commit -m "World backup {timestamp}"', shell=True, check=True)
-        subprocess.run("git push", shell=True, check=True)
-
-        return "Backup completed and pushed to GitHub!", 200
-    except subprocess.CalledProcessError as e:
-        return f"Backup failed: {e}", 500
-    finally:
-        os.chdir("..")  # Change back to original directory
 
 if __name__ == '__main__':
     print("Serving files from:", app.static_folder)
