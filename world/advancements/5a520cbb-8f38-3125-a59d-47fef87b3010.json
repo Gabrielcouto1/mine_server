@@ -4857,6 +4857,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-02-15 16:53:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-06 18:56:55 +0000"
@@ -6406,6 +6412,12 @@
   "create:recipes/create.base/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-02-06 19:07:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-02-15 16:53:33 +0000"
     },
     "done": true
   },
