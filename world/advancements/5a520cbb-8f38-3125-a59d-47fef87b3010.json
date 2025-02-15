@@ -1097,6 +1097,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_gold_barrel_1": {
+    "criteria": {
+      "has_limited_iron_barrel_1": "2025-02-15 20:57:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-13 07:26:22 +0000"
@@ -2828,6 +2834,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-02-06 18:58:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/stack_upgrade_tier_1_plus": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 21:00:17 +0000"
     },
     "done": true
   },
@@ -6215,6 +6227,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-02-15 17:51:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 21:00:17 +0000"
     },
     "done": true
   },
