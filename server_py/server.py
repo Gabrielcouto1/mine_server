@@ -4,11 +4,13 @@ import os
 import signal
 import time
 import re
+from datetime import datetime
 
 app = Flask(__name__, static_folder="static")
 
 MINECRAFT_COMMAND = "nohup java -Xmx24G -Xms24G -jar fabric-server-mc.1.19.2-loader.0.16.10-launcher.1.0.1.jar nogui > server.log 2>&1 &"
 LOG_FILE = "server.log"
+GIT_DIR = "github/mine_server"
 
 @app.route('/')
 def serve_index():
@@ -57,7 +59,6 @@ def restart_server():
 @app.route('/logs')
 def stream_logs():
     def generate():
-        # Define a regex pattern to match the desired log messages
         log_pattern = re.compile(r'\[\d{2}:\d{2}:\d{2}\] \[Server thread/INFO\]: (?:'
                                  r'\[.*?: Teleported .*?\]|'  # Matches teleport messages
                                  r'.*? (joined|left) the game|'  # Matches join/leave messages
@@ -65,37 +66,48 @@ def stream_logs():
                                  r'\[Not Secure\] .*?)')  # Matches in-game chat messages
 
         with open("server.log", "r") as file:
-            # Read and filter existing logs
             log_data = file.readlines()
             for line in log_data:
-                if log_pattern.search(line):  # Send only relevant logs
+                if log_pattern.search(line):
                     yield f"data: {line.strip()}\n\n"
 
-            # Seek to the end and stream new logs
             file.seek(0, os.SEEK_END)
             while True:
                 line = file.readline()
-                if log_pattern.search(line):  # Only send matching lines
+                if log_pattern.search(line):
                     yield f"data: {line.strip()}\n\n"
                 time.sleep(0.5)
 
     return Response(generate(), mimetype="text/event-stream")
 
-@app.route('/say', methods=['POST'])
-def send_message():
-    """Send a message to the Minecraft server as the server."""
-    message = request.json.get("message", "").strip()
+@app.route('/backup', methods=['POST'])
+def backup_world():
+    """Backup the world and push it to GitHub."""
+    try:
+        # Remove old backup
+        subprocess.run("rm -rf github/mine_server/world/", shell=True, check=True)
 
-    if not message:
-        return "Message cannot be empty!", 400
+        # Copy new world files
+        subprocess.run("cp -r world/ github/mine_server/", shell=True, check=True)
 
-    command = f'echo "/me {message}" > server_input.txt'
-    subprocess.run(command, shell=True, check=True)
+        # Change directory to Git repo
+        os.chdir(GIT_DIR)
 
-    return f"Sent message: {message}", 200
+        # Get the current date and time
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        # Git commands
+        subprocess.run("git add .", shell=True, check=True)
+        subprocess.run(f'git commit -m "World backup {timestamp}"', shell=True, check=True)
+        subprocess.run("git push", shell=True, check=True)
+
+        return "Backup completed and pushed to GitHub!", 200
+    except subprocess.CalledProcessError as e:
+        return f"Backup failed: {e}", 500
+    finally:
+        os.chdir("..")  # Change back to original directory
 
 if __name__ == '__main__':
     print("Serving files from:", app.static_folder)
     app.run(host='0.0.0.0', port=5000, threaded=True)
-
 

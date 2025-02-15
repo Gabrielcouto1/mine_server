@@ -23,6 +23,8 @@
         button:hover { background-color: #45a049; }
         button.stop { background-color: #e53935; }
         button.stop:hover { background-color: #d32f2f; }
+        button.backup { background-color: #4285F4; }
+        button.backup:hover { background-color: #357AE8; }
         #status {
             font-weight: bold;
             margin: 10px;
@@ -49,16 +51,13 @@
     <button onclick="sendCommand('/start')">LGIAR!!!</button>
     <button onclick="sendCommand('/restart')">REINICIAR!!!!!!</button>
     <button class="stop" onclick="sendCommand('/stop')">PARAR!!!!!!!!</button>
+    <button class="backup" onclick="sendCommand('/backup')">BACKUP MUNDO!!!</button>
 
     <p id="status">TA LIGADO?</p>
 
     <h3>LOGS</h3>
     <div id="log-container"></div>
 
-    <h3>Send Server Message</h3>
-    <input type="text" id="messageInput" placeholder="Enter message">
-    <button onclick="sendMessage()">Send</button>
-    <p id="messageStatus"></p>
     <script>
         function sendCommand(endpoint) {
             fetch(endpoint, { method: 'POST' })
@@ -79,30 +78,7 @@
             logContainer.innerHTML += event.data + "<br>";
             logContainer.scrollTop = logContainer.scrollHeight;  // Auto-scroll to latest log
         };
-
-        function sendMessage() {
-    const message = document.getElementById("messageInput").value.trim();
-    
-    if (!message) {
-        document.getElementById("messageStatus").innerText = "Message cannot be empty!";
-        return;
-    }
-
-    fetch('/say', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: message })
-    })
-    .then(response => response.text())
-    .then(data => {
-        document.getElementById("messageStatus").innerText = data;
-        document.getElementById("messageInput").value = ""; // Clear input after sending
-    })
-    .catch(error => document.getElementById("messageStatus").innerText = "Error sending message.");
-}
-
     </script>
 </body>
 </html>
-
 
