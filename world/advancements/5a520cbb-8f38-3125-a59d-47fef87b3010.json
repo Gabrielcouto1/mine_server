@@ -6505,6 +6505,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-15 04:03:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-06 18:56:50 +0000"
