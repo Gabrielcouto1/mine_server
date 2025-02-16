@@ -1481,6 +1481,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-02-16 00:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-04 21:01:35 +0000"
@@ -3687,6 +3693,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-16 00:39:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-16 00:39:05 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-02-08 01:43:01 +0000",
@@ -3694,9 +3712,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-16 00:39:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-02-11 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-16 00:39:05 +0000"
     },
     "done": true
   },
@@ -5792,6 +5822,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-16 00:39:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_rug": {
     "criteria": {
       "has_canvas": "2025-02-06 00:15:00 +0000"
@@ -6255,6 +6291,12 @@
   "create:hose_pulley": {
     "criteria": {
       "0": "2025-02-12 02:10:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-16 00:39:05 +0000"
     },
     "done": true
   },
