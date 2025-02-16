@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-09 18:46:27 +0000"
@@ -650,6 +656,12 @@
   "create:recipes/create.base/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-02-11 21:30:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
     },
     "done": true
   },
@@ -824,6 +836,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_slab": {
     "criteria": {
       "has_polished_cut_diorite": "2025-02-05 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
     },
     "done": true
   },
@@ -1205,6 +1223,12 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-02-16 03:09:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-06 00:08:27 +0000"
@@ -1457,6 +1481,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-10 01:20:46 +0000"
@@ -1496,6 +1526,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-04 20:54:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
     },
     "done": true
   },
@@ -3651,6 +3687,12 @@
     },
     "done": true
   },
+  "railways:recipes/railways/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-04 21:08:05 +0000"
@@ -3955,6 +3997,12 @@
   "create:recipes/create.base/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-11 21:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-16 03:13:18 +0000"
     },
     "done": true
   },
@@ -5028,6 +5076,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-05 02:56:43 +0000"
@@ -5663,6 +5717,12 @@
   "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-02-12 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-16 03:06:56 +0000"
     },
     "done": true
   },
@@ -6618,6 +6678,12 @@
     },
     "done": true
   },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-02-16 03:09:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
     "criteria": {
       "has_canvas_rug": "2025-02-06 00:15:10 +0000"
@@ -6711,6 +6777,12 @@
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-02-12 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
     },
     "done": true
   },
@@ -7778,6 +7850,12 @@
   "create:recipes/create.base/crafting/materials/zinc_ingot_from_compacting": {
     "criteria": {
       "has_item": "2025-02-10 01:25:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-02-16 03:09:44 +0000"
     },
     "done": true
   },
