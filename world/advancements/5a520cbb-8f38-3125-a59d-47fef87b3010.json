@@ -5049,6 +5049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-16 20:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-06 04:40:00 +0000"
@@ -8401,6 +8407,12 @@
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2025-02-11 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_iron_barrel_4_from_limited_copper_barrel_4": {
+    "criteria": {
+      "has_limited_copper_barrel_4": "2025-02-16 20:01:51 +0000"
     },
     "done": true
   },
