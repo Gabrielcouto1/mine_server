@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/stack_upgrade_tier_2_from_tier_1_plus": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-16 13:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-06 04:39:57 +0000"
