@@ -3101,6 +3101,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_copper_barrel_4": {
+    "criteria": {
+      "has_limited_barrel_4": "2025-02-16 19:28:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-06 03:45:57 +0000"
@@ -4332,6 +4338,12 @@
   "create:recipes/create.palettes/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-02-12 17:48:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_iron_barrel_4": {
+    "criteria": {
+      "has_limited_barrel_4": "2025-02-16 19:28:26 +0000"
     },
     "done": true
   },
