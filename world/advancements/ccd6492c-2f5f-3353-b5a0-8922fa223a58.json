@@ -1091,6 +1091,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-16 01:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-04 21:18:28 +0000"
@@ -1256,6 +1262,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-02-04 21:14:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
     },
     "done": true
   },
@@ -1689,6 +1701,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-02-08 04:37:31 +0000"
@@ -1722,6 +1740,12 @@
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-02-08 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
     },
     "done": true
   },
@@ -2184,6 +2208,12 @@
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-02-04 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
     },
     "done": true
   },
@@ -4318,6 +4348,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-06 01:30:33 +0000"
@@ -4435,6 +4471,12 @@
   "create:recipes/create.palettes/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-08 04:37:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
     },
     "done": true
   },
@@ -5696,6 +5738,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-02-04 23:15:16 +0000"
@@ -6119,6 +6167,12 @@
   "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-02-10 01:25:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-16 01:33:10 +0000"
     },
     "done": true
   },
@@ -6962,6 +7016,12 @@
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-02-06 05:00:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 01:52:55 +0000"
     },
     "done": true
   },
