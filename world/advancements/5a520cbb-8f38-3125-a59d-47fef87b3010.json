@@ -1253,6 +1253,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-16 14:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-06 04:36:21 +0000"
@@ -4139,6 +4145,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-06 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-02-16 14:15:56 +0000"
     },
     "done": true
   },
