@@ -43,6 +43,16 @@
             text-align: left;
             white-space: pre-wrap;
         }
+        #chat-input {
+            width: 80%;
+            padding: 15px;
+            font-size: 18px;
+            margin-top: 10px;
+            border: 2px solid #4CAF50;
+            background-color: #2e2e2e;
+            color: white;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -58,6 +68,9 @@
     <h3>LOGS</h3>
     <div id="log-container"></div>
 
+    <h3>Enviar Mensagem</h3>
+    <input type="text" id="chat-input" placeholder="Digite sua mensagem e aperte Enter...">
+
     <script>
         function sendCommand(endpoint) {
             fetch(endpoint, { method: 'POST' })
@@ -70,13 +83,37 @@
                 });
         }
 
-        // Real-time Log Streaming
+        function sendMessage() {
+            const input = document.getElementById("chat-input");
+            const message = input.value.trim();
+            if (message === "") return;
+
+            const formData = new FormData();
+            formData.append("command", message);
+
+            fetch("/send-command", { method: 'POST', body: formData })
+                .then(response => response.text())
+                .then(data => {
+                    console.log("Message sent:", data);
+                    input.value = ""; // Clear input field after sending
+                })
+                .catch(error => {
+                    console.error("Error sending message:", error);
+                });
+        }
+
+        document.getElementById("chat-input").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+                event.preventDefault();
+            }
+        });
+
         const logContainer = document.getElementById("log-container");
         const eventSource = new EventSource('/logs');
-
         eventSource.onmessage = function(event) {
             logContainer.innerHTML += event.data + "<br>";
-            logContainer.scrollTop = logContainer.scrollHeight;  // Auto-scroll to latest log
+            logContainer.scrollTop = logContainer.scrollHeight;
         };
     </script>
 </body>
