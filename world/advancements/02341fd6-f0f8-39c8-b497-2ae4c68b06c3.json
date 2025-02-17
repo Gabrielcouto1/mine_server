@@ -2108,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 21:07:45 +0000"
@@ -3082,6 +3088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-04 21:03:37 +0000"
@@ -3433,6 +3445,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-04 21:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
     },
     "done": true
   },
@@ -3875,6 +3893,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-04 20:39:34 +0000"
@@ -4247,6 +4271,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-02-17 01:59:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-02-04 21:27:11 +0000"
@@ -4451,6 +4481,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-04 20:51:57 +0000"
@@ -4463,9 +4499,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/backpack": {
     "criteria": {
       "has_leather": "2025-02-06 23:17:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-17 02:00:09 +0000"
     },
     "done": true
   },
@@ -4532,6 +4586,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-14 02:21:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-17 02:00:09 +0000"
     },
     "done": true
   },
@@ -4751,6 +4811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-02-14 02:36:14 +0000"
@@ -4934,6 +5000,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty": {
     "criteria": {
       "beef_patty": "2025-02-04 20:57:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:58 +0000"
     },
     "done": true
   },
@@ -5213,6 +5285,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-06 03:32:44 +0000"
@@ -5289,6 +5367,12 @@
   "create:recipes/create.base/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-02-12 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_barrel_from_copper_barrel": {
+    "criteria": {
+      "has_copper_barrel": "2025-02-17 02:01:32 +0000"
     },
     "done": true
   },
@@ -5403,6 +5487,12 @@
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-06 22:16:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2025-02-17 02:00:09 +0000"
     },
     "done": true
   },
@@ -5814,6 +5904,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-04 20:55:33 +0000"
@@ -5940,6 +6036,12 @@
   "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-02-08 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
     },
     "done": true
   },
@@ -6955,6 +7057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 22:04:55 +0000"
@@ -7171,6 +7279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 22:04:55 +0000"
@@ -7234,6 +7348,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-02-04 21:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-17 02:00:09 +0000"
     },
     "done": true
   },
@@ -7354,6 +7474,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-08 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-17 01:59:58 +0000"
     },
     "done": true
   },
