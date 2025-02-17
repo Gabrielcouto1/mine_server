@@ -641,6 +641,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_iron_barrel_1_from_limited_copper_barrel_1": {
+    "criteria": {
+      "has_limited_copper_barrel_1": "2025-02-17 01:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-02-04 22:48:03 +0000"
@@ -980,6 +986,12 @@
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-06 22:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-02-17 01:39:41 +0000"
     },
     "done": true
   },
