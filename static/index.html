@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORRA OITO LIGAR!!!!!!!!!!!!!! E DESLIGAR!!!!!!!!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: white;
+            text-align: center;
+        }
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover { background-color: #45a049; }
+        button.stop { background-color: #e53935; }
+        button.stop:hover { background-color: #d32f2f; }
+        button.backup { background-color: #4285F4; }
+        button.backup:hover { background-color: #357AE8; }
+        #status {
+            font-weight: bold;
+            margin: 10px;
+        }
+        #log-container {
+            width: 80%;
+            max-width: 800px;
+            height: 400px;
+            overflow-y: auto;
+            background: black;
+            color: lime;
+            padding: 10px;
+            font-family: monospace;
+            border: 1px solid #4CAF50;
+            margin: 20px auto;
+            text-align: left;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minecraft ligar!!!!</h1>
+
+    <button onclick="sendCommand('/start')">LGIAR!!!</button>
+    <button onclick="sendCommand('/restart')">REINICIAR!!!!!!</button>
+    <button class="stop" onclick="sendCommand('/stop')">PARAR!!!!!!!!</button>
+    <button class="backup" onclick="sendCommand('/backup')">BACKUP MUNDO!!!</button>
+
+    <p id="status">TA LIGADO?</p>
+
+    <h3>LOGS</h3>
+    <div id="log-container"></div>
+
+    <script>
+        function sendCommand(endpoint) {
+            fetch(endpoint, { method: 'POST' })
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("status").innerText = data;
+                })
+                .catch(error => {
+                    document.getElementById("status").innerText = "Error connecting to server.";
+                });
+        }
+
+        // Real-time Log Streaming
+        const logContainer = document.getElementById("log-container");
+        const eventSource = new EventSource('/logs');
+
+        eventSource.onmessage = function(event) {
+            logContainer.innerHTML += event.data + "<br>";
+            logContainer.scrollTop = logContainer.scrollHeight;  // Auto-scroll to latest log
+        };
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,3 @@
+Collecting flask-socketio
+  Using cached https://files.pythonhosted.org/packages/47/38/1b75b3ba3452860211ec87710f9854112911a436ee4d155533e0b83b5cd9/Flask_SocketIO-5.5.1-py3-none-any.whl
+Collecting python-socketio>=5.12.0 (from flask-socketio)
