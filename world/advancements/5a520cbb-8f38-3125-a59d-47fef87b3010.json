@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-02-17 03:01:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-13 19:00:08 +0000"
@@ -932,6 +938,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-02-15 17:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-02-17 03:01:45 +0000"
     },
     "done": true
   },
