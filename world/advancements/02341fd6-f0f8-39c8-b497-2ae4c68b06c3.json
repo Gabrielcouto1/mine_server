@@ -6040,6 +6040,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-17 17:29:19 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-02-11 23:41:43 -0300"
@@ -6382,6 +6388,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 00:32:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-17 17:30:12 -0300"
     },
     "done": true
   },

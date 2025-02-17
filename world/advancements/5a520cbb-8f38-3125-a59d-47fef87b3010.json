@@ -1097,6 +1097,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_gold_barrel_4": {
+    "criteria": {
+      "has_limited_iron_barrel_4": "2025-02-17 16:59:06 -0300"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/chipped/mason_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-06 15:51:09 -0300"
@@ -3974,6 +3980,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-17 17:27:55 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-07 19:20:50 -0300"
@@ -5334,14 +5346,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-06 01:59:48 -0300",
+      "minecraft:blaze": "2025-02-17 17:33:42 -0300",
       "minecraft:skeleton": "2025-02-06 19:11:02 -0300",
       "minecraft:ghast": "2025-02-13 14:14:52 -0300",
       "minecraft:hoglin": "2025-02-15 17:22:46 -0300",
       "minecraft:magma_cube": "2025-02-11 13:03:33 -0300",
       "minecraft:spider": "2025-02-06 19:49:41 -0300",
       "minecraft:creeper": "2025-02-06 00:59:16 -0300",
+      "minecraft:wither": "2025-02-17 17:30:05 -0300",
       "minecraft:phantom": "2025-02-07 20:03:46 -0300",
       "minecraft:witch": "2025-02-06 19:11:10 -0300",
+      "minecraft:wither_skeleton": "2025-02-17 17:33:03 -0300",
       "minecraft:piglin": "2025-02-10 16:39:21 -0300",
       "minecraft:enderman": "2025-02-06 20:47:02 -0300",
       "minecraft:zombie": "2025-02-06 00:59:25 -0300",
@@ -6993,6 +7008,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-17 17:29:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-10 16:41:39 -0300"
@@ -7375,6 +7396,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 15:56:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-17 17:30:16 -0300"
     },
     "done": true
   },
