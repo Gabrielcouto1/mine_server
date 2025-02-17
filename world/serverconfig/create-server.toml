@@ -189,7 +189,7 @@
 		#.
 		#Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
 		#Range: > 1
-		maxBlocksMoved = 2048
+		maxBlocksMoved = 8192
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE

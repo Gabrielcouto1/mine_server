@@ -3724,9 +3724,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-17 18:44:25 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_limited_barrel_3": {
     "criteria": {
       "has_oak_plank": "2025-02-17 16:36:41 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-17 18:44:25 -0300"
     },
     "done": true
   },
@@ -3749,9 +3761,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-17 18:44:25 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 19:04:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-17 18:44:25 -0300"
     },
     "done": true
   },
@@ -5794,6 +5818,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-17 18:44:25 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas_rug": {
     "criteria": {
       "has_canvas": "2025-02-05 21:14:55 -0300"
@@ -6238,6 +6268,12 @@
   "create:recipes/create.palettes/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 19:04:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-02-17 18:44:25 -0300"
     },
     "done": true
   },
