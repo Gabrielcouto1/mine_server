@@ -4748,6 +4748,7 @@
       "minecraft:spider": "2025-02-04 18:01:34 -0300",
       "minecraft:piglin_brute": "2025-02-09 17:15:47 -0300",
       "minecraft:creeper": "2025-02-04 18:33:46 -0300",
+      "minecraft:wither": "2025-02-17 19:22:30 -0300",
       "minecraft:phantom": "2025-02-13 19:04:25 -0300",
       "minecraft:witch": "2025-02-04 22:38:11 -0300",
       "minecraft:wither_skeleton": "2025-02-09 17:19:46 -0300",
@@ -6233,6 +6234,12 @@
   "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2025-02-11 19:22:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-17 19:21:49 -0300"
     },
     "done": true
   },
