@@ -5352,6 +5352,7 @@
       "minecraft:magma_cube": "2025-02-11 13:03:33 -0300",
       "minecraft:spider": "2025-02-06 19:49:41 -0300",
       "minecraft:creeper": "2025-02-06 00:59:16 -0300",
+      "minecraft:wither": "2025-02-17 19:25:00 -0300",
       "minecraft:phantom": "2025-02-07 20:03:46 -0300",
       "minecraft:witch": "2025-02-06 19:11:10 -0300",
       "minecraft:piglin": "2025-02-10 16:39:21 -0300",
@@ -6000,6 +6001,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-06 01:23:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-17 19:25:39 -0300"
     },
     "done": true
   },
