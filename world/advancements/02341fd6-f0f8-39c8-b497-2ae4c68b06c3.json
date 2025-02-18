@@ -1295,6 +1295,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-04 18:08:10 -0300"
@@ -1736,6 +1742,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-02-08 00:30:54 -0300"
@@ -1769,6 +1781,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-04 22:26:05 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
     },
     "done": true
   },
@@ -2255,6 +2273,12 @@
   "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-02-04 18:43:32 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
     },
     "done": true
   },
@@ -4085,6 +4109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-17 21:27:55 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-08 00:28:36 -0300"
@@ -4361,6 +4391,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-08 00:32:25 -0300"
@@ -4496,6 +4532,12 @@
   "create:recipes/create.palettes/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-08 00:30:54 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
     },
     "done": true
   },
@@ -4728,6 +4770,12 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-02-04 22:42:07 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-02-17 21:27:18 -0300"
     },
     "done": true
   },
@@ -5067,6 +5115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-17 21:54:59 -0300"
+    },
+    "done": true
+  },
   "create:recipes/transportation/crafting/kinetics/furnace_minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2025-02-11 23:57:41 -0300"
@@ -5220,6 +5274,12 @@
   "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-06 00:32:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-17 21:18:59 -0300"
     },
     "done": true
   },
@@ -5749,6 +5809,12 @@
   "farmersdelight:recipes/farmersdelight/basket": {
     "criteria": {
       "has_canvas": "2025-02-05 21:14:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
     },
     "done": true
   },
@@ -6649,6 +6715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-17 21:18:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-04 23:18:35 -0300"
@@ -7016,6 +7088,12 @@
   "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-06 19:04:55 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-17 21:18:10 -0300"
     },
     "done": true
   },
