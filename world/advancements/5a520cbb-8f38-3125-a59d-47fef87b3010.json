@@ -2601,6 +2601,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-18 01:41:18 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-06 15:56:55 -0300"
@@ -3107,9 +3113,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-18 01:41:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-06 15:55:44 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-18 01:41:18 -0300"
     },
     "done": true
   },
@@ -3119,9 +3137,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-18 01:41:18 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/limited_copper_barrel_1": {
     "criteria": {
       "has_limited_barrel_1": "2025-02-15 17:55:31 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-18 01:41:18 -0300"
     },
     "done": true
   },
@@ -4340,15 +4370,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2025-02-18 01:36:48 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_4": {
     "criteria": {
       "has_spruce_plank": "2025-02-15 14:28:58 -0300"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2025-02-18 01:36:48 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2025-02-15 14:28:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2025-02-18 01:36:48 -0300"
     },
     "done": true
   },
@@ -4368,6 +4416,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage.item_group/spruce_limited_barrel_2": {
     "criteria": {
       "has_spruce_plank": "2025-02-15 14:28:58 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2025-02-18 01:36:48 -0300"
     },
     "done": true
   },
@@ -4707,6 +4761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-18 01:40:35 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-06 18:34:43 -0300"
@@ -4938,6 +4998,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-02-06 01:27:26 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-18 01:41:18 -0300"
     },
     "done": true
   },
@@ -5723,6 +5789,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2025-02-18 01:36:48 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 15:56:50 -0300"
@@ -5936,6 +6008,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-12 12:26:31 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-02-18 01:36:44 -0300"
     },
     "done": true
   },
@@ -6923,6 +7001,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-02-18 01:36:44 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-06 15:56:55 -0300"
@@ -6935,9 +7019,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-02-18 01:36:44 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-02-18 01:36:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-06 01:36:21 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-02-18 01:36:44 -0300"
     },
     "done": true
   },
@@ -7446,6 +7548,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2025-02-18 01:36:48 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-02-06 00:52:03 -0300"
@@ -7803,6 +7911,12 @@
   "farmersdelight:recipes/misc/book_from_canvas": {
     "criteria": {
       "has_canvas": "2025-02-12 18:10:04 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-02-18 01:36:44 -0300"
     },
     "done": true
   },
