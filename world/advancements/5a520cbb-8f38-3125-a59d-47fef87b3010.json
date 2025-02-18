@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-02-18 00:46:13 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/brass_bars_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2025-02-12 14:52:22 -0300"
@@ -158,6 +164,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-02-17 21:19:32 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/gold_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-02-18 00:46:30 -0300"
     },
     "done": true
   },
@@ -2466,6 +2478,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-02-06 16:12:23 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_shulker_from_iron_chest": {
+    "criteria": {
+      "has_iron_chest": "2025-02-18 00:46:30 -0300"
     },
     "done": true
   },
@@ -9004,6 +9022,12 @@
   "create:recipes/create.base/crafting/materials/zinc_ingot_from_compacting": {
     "criteria": {
       "has_item": "2025-02-06 16:07:51 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-02-18 00:46:13 -0300"
     },
     "done": true
   },
