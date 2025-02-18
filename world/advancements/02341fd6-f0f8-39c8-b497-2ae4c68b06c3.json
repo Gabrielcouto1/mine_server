@@ -317,15 +317,39 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-17 20:00:32 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2025-02-04 19:02:38 -0300"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-17 20:00:32 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-17 20:00:32 -0300"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-02-11 23:58:10 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-17 20:00:32 -0300"
     },
     "done": true
   },
@@ -833,6 +857,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-17 20:00:32 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-06 00:32:44 -0300"
@@ -944,6 +974,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-02-04 17:52:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-17 20:47:06 -0300"
     },
     "done": true
   },
@@ -3610,6 +3646,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-17 20:00:32 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-02-13 18:35:40 -0300"
@@ -5436,6 +5478,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-02-09 19:56:27 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage.item_group/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-02-17 19:56:25 -0300"
     },
     "done": true
   },

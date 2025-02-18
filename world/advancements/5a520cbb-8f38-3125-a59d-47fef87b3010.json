@@ -5434,6 +5434,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-02-17 20:45:57 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-02-12 14:47:41 -0300"

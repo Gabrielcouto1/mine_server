@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-09 16:32:39 -0300"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
+    },
+    "done": true
+  },
   "create:hose_pulley_lava": {
     "criteria": {
       "0": "2025-02-11 23:34:31 -0300"
@@ -857,6 +869,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-02-04 23:49:33 -0300"
@@ -896,6 +914,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-05 22:56:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -1067,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs": {
     "criteria": {
       "has_polished_cut_diorite": "2025-02-04 23:56:43 -0300"
@@ -1148,6 +1178,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-02-05 23:46:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -1316,6 +1352,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-08 02:26:50 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -1517,6 +1559,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-04 19:55:55 -0300"
@@ -1682,6 +1730,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-04 18:29:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -1854,6 +1908,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-02-04 18:39:43 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -2097,6 +2157,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2025-02-04 17:38:58 -0300"
@@ -2130,6 +2196,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-02-13 18:03:11 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -2361,6 +2433,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-02-12 18:17:38 -0300"
@@ -2426,6 +2504,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-04 17:54:12 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -3057,6 +3141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-04 23:56:43 -0300"
@@ -3150,6 +3240,12 @@
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-02-09 16:49:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -3270,6 +3366,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-02-07 23:02:57 -0300"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-02-17 20:33:45 -0300"
     },
     "done": true
   },
@@ -4162,6 +4264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-09 15:57:20 -0300"
@@ -4303,6 +4411,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-09 22:07:45 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -4915,6 +5029,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-04 17:38:58 -0300"
@@ -4936,6 +5056,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-02-04 20:55:36 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -5332,6 +5458,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-08 02:26:50 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -6291,6 +6423,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-02-11 21:26:08 -0300"
@@ -6322,6 +6460,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks.item_group/chipped/glassblower_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-13 18:02:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -7038,6 +7182,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-04 22:55:09 -0300"
@@ -7164,6 +7314,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-04 17:51:25 -0300"
@@ -7263,6 +7419,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-02-09 22:20:46 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-02-17 20:24:19 -0300"
     },
     "done": true
   },
@@ -7371,6 +7533,12 @@
   "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-09 15:49:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
@@ -7725,6 +7893,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-06 20:52:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-17 20:00:09 -0300"
     },
     "done": true
   },
